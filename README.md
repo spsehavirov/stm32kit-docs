@@ -1,6 +1,6 @@
 # SPŠE ARM Kit - dokumentace
 
-Dokumentace ke školnímu ARM přípravku
+Dokumentace a materiály ke školnímu ARM přípravku.
 
 ## Discovery 
 
@@ -32,15 +32,141 @@ ho nepouživají.
 
 ### F401
 
+<details>
+  
+<summary>Pinout - Arduino</summary>
+
+![levá strana](boards/NUCLEO/STM32F401RET6-NUCLEO/nucleo_f401re_2017_9_19_arduino_left.png)
+
+![pravá strana](boards/NUCLEO/STM32F401RET6-NUCLEO/nucleo_f401re_2017_9_19_arduino_right.png)
+
+</details>
+<details>
+
+<summary>Pinout - Morho</summary>
+
+![levá strana](boards/NUCLEO/STM32F401RET6-NUCLEO/nucleo_f401re_2017_9_19_morpho_left.png)
+
+![pravá strana](boards/NUCLEO/STM32F401RET6-NUCLEO/nucleo_f401re_2017_9_19_morpho_right.png)
+
+</details>
+
+<details>
+  
+<summary>Manuály</summary>
+
+- [Referenční příručka](boards/NUCLEO/STM32F401RET6-NUCLEO/STM32F401_reference-manual.pdf)
+- [Uživatelský manuál](boards/NUCLEO/STM32F401RET6-NUCLEO/STM32F401_user-manual.pdf)
+- [Datasheet](boards/NUCLEO/STM32F401RET6-NUCLEO/STM32F401_datasheet-stm32f401.pdf)
+
+</details>
+
 ### F411
+
+<details>
+  
+<summary>Pinout - Arduino</summary>
+
+![levá strana](boards/NUCLEO/STM32F411RET6-NUCLEO/nucleo_f411re_2017_11_14_ard_left.png)
+
+![pravá strana](boards/NUCLEO/STM32F411RET6-NUCLEO/nucleo_f411re_2017_11_14_ard_right.png)
+
+</details>
+<details>
+
+<summary>Pinout - Morho</summary>
+
+![levá strana](boards/NUCLEO/STM32F411RET6-NUCLEO/nucleo_f411re_2017_11_14_mor_left.png)
+
+![pravá strana](boards/NUCLEO/STM32F411RET6-NUCLEO/nucleo_f411re_2017_11_14_mor_right.png)
+
+</details>
+
+<details>
+  
+<summary>Manuály</summary>
+
+- [Referenční příručka](boards/NUCLEO/STM32F411RET6-NUCLEO/STMF411_reference-manual.pdf)
+- [Uživatelský manuál](boards/NUCLEO/STM32F411RET6-NUCLEO/STM32F411_user-manual.pdf)
+
+</details>
 
 ### G071
 
+<details>
+  
+<summary>Pinout - Arduino</summary>
+
+![levá strana](boards/NUCLEO/STM32G071RBT6-NUCLEO/nucleo_g071rb_arduino_left_2019_12_12.png)
+
+![pravá strana](boards/NUCLEO/STM32G071RBT6-NUCLEO/nucleo_g071rb_arduino_right_2019_12_12.png)
+
+</details>
+<details>
+
+<summary>Pinout - Morho</summary>
+
+![levá strana](boards/NUCLEO/STM32G071RBT6-NUCLEO/nucleo_g071rb_morpho_left_2019_12_12.png)
+
+![pravá strana](boards/NUCLEO/STM32G071RBT6-NUCLEO/nucleo_g071rb_morpho_right_2019_12_12.png)
+
+</details>
+
+<details>
+  
+<summary>Manuály</summary>
+
+- [Referenční příručka](boards/NUCLEO/STM32G071RBT6-NUCLEO/STM32G0x1_reference-manual.pdf)
+- [Uživatelský manuál](boards/NUCLEO/STM32G071RBT6-NUCLEO/STM32G0x1_user-manual.pdf)
+- [Programatorský manual](boards/NUCLEO/STM32G071RBT6-NUCLEO/STM32G0_programming-manual.pdf)
+
+</details>
+
 ### L152
+
+<details>
+  
+<summary>Pinout - Arduino</summary>
+
+![levá strana](boards/NUCLEO/STM32L152RET6-NUCLEO/nucleo_l152re_2017_9_22_ard_left.png)
+
+![pravá strana](boards/NUCLEO/STM32L152RET6-NUCLEO/nucleo_l152re_2017_9_22_ard_left.png)
+
+</details>
+<details>
+
+<summary>Pinout - Morho</summary>
+
+![levá strana](boards/NUCLEO/STM32L152RET6-NUCLEO/nucleo_l152re_2017_9_22_mor_left.png)
+
+![pravá strana](boards/NUCLEO/STM32L152RET6-NUCLEO/nucleo_l152re_2017_9_22_mor_left.png)
+
+</details>
+
+<details>
+  
+<summary>Manuály</summary>
+
+  
+- [Referenční příručka](boards/NUCLEO/STM32L152RET6-NUCLEO/STM32L152_reference-manual.pdf)
+- [Uživatelský manuál](boards/NUCLEO/STM32L152RET6-NUCLEO/STM32L152_user-manual.pdf)
+- [Datasheet](boards/NUCLEO/STM32L152RET6-NUCLEO/STM32L152_datasheet.pdf)
+  
+
+</details>
 
 ## Poznámky
 
 ### Školní Keil uVision verze
 
-![Keil vypis - obrázek](Keil_version.png "Verze Keil-u")
-[Keil výpis](Keil_version.txt)
+Školní verze Keil uVision IDE je 5.18
+
+<details>
+  
+<summary>Screenshot</summary>
+
+![Keil vypis - obrázek](etc/Keil_version.png "Verze Keil-u")
+  
+</details>
+
+[Keil výpis](etc/Keil_version.txt)
